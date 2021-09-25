@@ -1,5 +1,5 @@
 {
-  "say_hello": {
+  "hello_lib": {
     "Overview": "/",
     "module name here": "core.html"
   }
