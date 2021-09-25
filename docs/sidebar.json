@@ -1,6 +1,6 @@
 {
   "hello_lib": {
     "Overview": "/",
-    "module name here": "core.html"
+    "hello_lib": "core.html"
   }
 }
